@@ -1,0 +1,19 @@
+{
+    "colors": {
+        "bg": "#FAFAFA",
+        "text": "#333333",
+        "text_light": "#666666",
+        "accent": "#C5A059",
+        "dark": "#1A1A1A",
+        "white": "#FFFFFF"
+    },
+    "fonts": {
+        "serif": "'Playfair Display', serif",
+        "sans": "'Inter', sans-serif"
+    },
+    "content": {
+        "hero_title": "Acelero executivas tecnicamente impecáveis à <span class=\"highlight\">próxima promoção</span> em 6-12 meses.",
+        "hero_subtitle": "Método START: Da \"executora confiável\" à \"líder promovível\".<br>Reprogramação neural + Imposição de limites = <strong>Visibilidade Estratégica</strong>.",
+        "hero_cta": "Quero Ser Promovida"
+    }
+}
